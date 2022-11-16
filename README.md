@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# assignment-b3-Marcella-Cross
+# Assignment B3 - Marcella Cross
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -10,14 +10,18 @@
 assignment-b3-Marcella-Cross is to design a new shiny app with at least
 three features:
 
-Feature 1: Tabular Plots: Histogram, Scatter plot, Table Feature 2:
-Slider Bar: for interaction with the histogram Feature 3: Check Boxes:
-for interaction with the histogram Feature 4: Image: for aesthetics
-Feature 5: Main Title
+- Feature 1: Tabular Plots: Histogram, Scatter plot, Table
+- Feature 2: Slider Bar: for interaction with the histogram
+- Feature 3: Check Boxes: for interaction with the histogram
+- Feature 4: Image: for aesthetics
+- Feature 5: Main Title
 
 This app allows users to better understand how diet affects chick
 development for the first 21 days of life. Different diets show
 different weights over the 21 days.
+
+**App Access Online Link:**
+<https://marcella-cross.shinyapps.io/assignment-b3-Marcella-Cross/>
 
 The app I have designed uses data from the datasets package built into
 R. The data is called ChickWeight and can be viewed here:
